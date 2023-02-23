@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    gap: 1rem;
+}
+
+article{
+    display: block;
+    width: 50%;
+    border: gray solid 2px;
+    
+}
+
+h1{
+    color:red
+}
+
+h2{
+    color: pink;
+    size: 2rem;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+em{
+    font-style: italic;
+    font-size: 0.9rem;
+    color: grey;
+}
